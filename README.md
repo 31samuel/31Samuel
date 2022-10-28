@@ -18,7 +18,7 @@
 
 ### Minhas principais ferramentas:
 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=GitHUB&logocolor=1572B6&labelcolor=0d1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logocolor=1572B6&labelcolor=0d1117)&nbsp;
 ![windows](https://img.shields.io/badge/-windows-0D1117?style=for-the-badge&logo=windows&logocolor=1572B6&labelcolor=0d1117)&nbsp;
 ![visualstudiocode](https://img.shields.io/badge/-visualstudiocode-0D1117?style=for-the-badge&logo=visualstudiocode&logocolor=1572B6&labelcolor=0d1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&logocolor=1572B6&labelcolor=0d1117)&nbsp;
