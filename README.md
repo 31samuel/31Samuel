@@ -1,11 +1,4 @@
-
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Samuel beserra da silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
- <br>
-
-
-[![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)]()
+### Olá me chamo samuel beserra da sil va 
 
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=31Samuel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="samuel beserra da sil va github starts"/>
@@ -19,3 +12,10 @@
 <br><p align="center"><b>Visitors count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{31Samuel}/count.svg"/></p>
 <br></div>
+
+
+### Main skills:
+![css](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logocolor=1572B6&labelcolor=0d1117)&nbsp;
+
+
+
