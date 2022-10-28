@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Samuel beserra da silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-Typing-svg.heroKuapp.
+[![Typing SVG](https://readme-Typing-svg.heroKuapp.com/?color00bfbf&size=35)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Samuel beserra da silva&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
 [![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
@@ -12,6 +11,7 @@
 ![samuel silva GitHub stats](https://github-readme-stats.vercel.app/api?username=31samuel&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=31samuel)](https://github.com/31samuel/31samuel.git)
+![contribution](https://activity-graph.herokuapp.com/graph?username=31Samuel&theme=gotham&hide_border=true&area=true)
 ## Tecnologias que eu uso no meu dia 
 
 <div style="dispaly:inline_block"><br>
@@ -21,7 +21,9 @@
 <img align="center"   alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="center"   alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-</div>
+<br>
 
+
+</div>
 
 
