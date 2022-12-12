@@ -9,8 +9,7 @@
 </div>
 
 
-![contribution](https://activity-graph.herokuapp.com/graph?username=31Samuel&theme=gotham&hide_border=true&area=true)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuel beserra da sil va&bg_color=0c0308&color=4c869e&line=170bc1&point=279496&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Minhas principais habilidades:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&&labelcolor=0d1117)&nbsp;
