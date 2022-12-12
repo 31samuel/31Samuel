@@ -9,7 +9,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=31Samuel&bg_color=181617&color=7165c8&line=0bc1b5&point=168b8d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=31Samuel&bg_color=0d0c0d&color=4c9e95&line=4c9e8a&point=3441a2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Minhas principais habilidades:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&&labelcolor=0d1117)&nbsp;
